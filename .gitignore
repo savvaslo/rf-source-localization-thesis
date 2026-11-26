@@ -1,0 +1,17 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv*/
+.venv.nosync/
+
+# Platform and editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated experiment data and cache
+KrakenScope/experiments/
+KrakenSDR_Simulator-main/.map_tile_cache/
+*.log
